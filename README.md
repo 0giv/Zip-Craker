@@ -1,8 +1,9 @@
-# Zip-Craker
+## **Zip-Craker**
 You need a wordlist for this tool.<br>
 You can find it here :
-  <br>https://www.libhunt.com/topic/wordlist
-# Setup
-pip install pyzipper <br>
-pip install tqdm <br>
+  <br>```https://www.libhunt.com/topic/wordlist```
+## **Setup**
+```
+pip3 install -r requiments.txt
 python zipcraker.py
+```
